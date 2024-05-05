@@ -2,7 +2,7 @@
 SPPU Final Year IT Distributed Systems Lab Assignments
 
 ## List of Assignments 
-1. Implement multi-threaded client/server Process communication using RMI.
+###1. Implement multi-threaded client/server Process communication using RMI.
 2. Develop any distributed application using CORBA to demonstrate object brokering. 
 (Calculator or String operations).
 3. Develop a distributed system, to find sum of N elements in an array by distributing N/n elements to n 
